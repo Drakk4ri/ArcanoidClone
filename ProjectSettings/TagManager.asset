@@ -39,15 +39,21 @@ TagManager:
   - 
   - 
   m_SortingLayers:
-  - name: Default
-    uniqueID: 0
-    locked: 0
   - name: background
     uniqueID: 1262871569
     locked: 0
   - name: platform
     uniqueID: 1070913869
     locked: 0
+  - name: bricks
+    uniqueID: 88300173
+    locked: 0
   - name: ball
     uniqueID: 3443082563
+    locked: 0
+  - name: Efects
+    uniqueID: 3658895623
+    locked: 0
+  - name: Default
+    uniqueID: 0
     locked: 0
